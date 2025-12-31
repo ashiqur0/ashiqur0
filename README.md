@@ -9,9 +9,10 @@
 </p>
 
 ---
+</br>
+</br>
 
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
-
 
 I am a beginning-level MERN stack developer with hands-on, real-world experience building full-stack applications using MongoDB, Express.js, React, and Node.js.
 
@@ -20,17 +21,16 @@ Through personal and team-based projects, I have contributed to planning, develo
 I value clean, maintainable code, thoughtful problem-solving, and adaptability when learning new tools or workflows, while communicating clearly and supporting teammates in group environments.
 Motivated by continuous growth, I approach challenges with curiosity and professionalism, eager to expand my skills and make meaningful contributions to real-world applications.
 
-
----
-
+</br>
 
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashiqur0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ashiqur0&theme=github-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur0&theme=github_dark&hide_border=true&layout=compact)
 
+</br>
+</br>
 
----
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -43,13 +43,6 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
     />
   </picture>
 </p>
-
----
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ashiqur0&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=ashiqur0&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -66,8 +59,7 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
   </picture>
 </p>
 
-
----
+</br>
 
 ## Github WorkFlow
 <p align="center">

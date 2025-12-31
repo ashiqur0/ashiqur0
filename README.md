@@ -1,5 +1,4 @@
 <!-- Right Side GIF -->
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=64&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
@@ -20,6 +19,9 @@ Through personal and team-based projects, I have contributed to planning, develo
 
 I value clean, maintainable code, thoughtful problem-solving, and adaptability when learning new tools or workflows, while communicating clearly and supporting teammates in group environments.
 Motivated by continuous growth, I approach challenges with curiosity and professionalism, eager to expand my skills and make meaningful contributions to real-world applications.
+
+
+---
 
 
 ##  GitHub Stats:
@@ -54,7 +56,6 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 
 
 ## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"

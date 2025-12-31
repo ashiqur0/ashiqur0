@@ -18,7 +18,32 @@ I’ve contributed to personal and team projects involving planning, API develop
 
 Driven by continuous learning, I adapt quickly to new tools, communicate clearly, and bring a professional mindset, aiming to grow fast and deliver meaningful, user-focused software solutions.
 
+---
+
 </br>
+
+
+## 🌐 Connect with Me!
+
+**Let's build something amazing together! Feel free to reach out through any of these platforms:**
+
+<p>
+  <a href="https://github.com/ashiqur0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashiqur0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ashiqurrahmans2018@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/m.ashiqur0" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/01643496398" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashiqur0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)

@@ -9,8 +9,6 @@
 </p>
 
 ---
-</br>
-</br>
 
 <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
 
@@ -28,7 +26,6 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 ![](https://nirzak-streak-stats.vercel.app/?user=ashiqur0&theme=github-dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur0&theme=github_dark&hide_border=true&layout=compact)
 
-</br>
 </br>
 
 <p align="center">

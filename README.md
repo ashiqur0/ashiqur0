@@ -31,9 +31,18 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 
 
 ---
-
-## My GitHub Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqur0&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashiqur0&theme=github-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=ashiqur0&theme=github&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqur0&hide_border=true"
+      alt="GitHub Activity Graph"
+    />
+  </picture>
+</p>
 
 ---
 

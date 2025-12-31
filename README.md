@@ -32,16 +32,6 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 
 ---
 
-## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashiqur0&theme=react&hide_border=true" />
-
----
-
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=ashiqur0&theme=merko&row=1&margin-w=8)
-
----
-
 ## My GitHub Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqur0&theme=tokyo-night&area=true&hide_border=false&custom_title=My%20GitHub%20Activity" style="width: 100%; max-width: 100%;" />
 

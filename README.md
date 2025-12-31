@@ -52,8 +52,18 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 [![](https://visitcount.itsvg.in/api?id=ashiqur0&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-##  My GitHub Contribution
-![snake gif](https://github.com/ashiqur0/ashiqur0/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake.svg" />
+    <img alt="github snake"
+      src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 

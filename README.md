@@ -1,11 +1,11 @@
 <!-- Right Side GIF -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=64&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Ashiqur%2C+a+Full+Stak+MERN+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Ashiqur+Rahman%2C+a+Full+Stak+MERN+Developer" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 [![](https://visitcount.itsvg.in/api?id=ashiqur0&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -60,7 +60,7 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 
 ---
 
-## github_WorkFlow
+## Github WorkFlow
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"

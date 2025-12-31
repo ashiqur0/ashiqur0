@@ -91,6 +91,20 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 
 ---
 
+## ⭐ Featured Projects
+
+### 💎 E-Commerce & Retail
+
+<div align="center">
+
+| 🚀 Project | 📝 Short Description | 🛠️ Tech Stack | 🔗 Live Site |
+|:-----------|:---------------|:---------------|:-------:|
+| **HeroKidz**<br/>![](https://img.shields.io/badge/E--Commerce-Baby%20Products-F59E0B?style=flat-square) | Elegant e-commerce platform for various retail baby products, shopping cart, and secure payment gateway | `Next.js` `Tailwind CSS` `MongoDB` `Stripe` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=shopify" height="25"/>](https://hero-kidz-by-ashiqur.vercel.app/) |
+
+</div>
+
+---
+
 ##  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashiqur0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=ashiqur0&theme=github-dark&hide_border=true)
@@ -111,20 +125,6 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=ashiqur0&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
-
-## ⭐ Featured Projects
-
-### 💎 E-Commerce & Retail
-
-<div align="center">
-
-| 🚀 Project | 📝 Short Description | 🛠️ Tech Stack | 🔗 Live Site |
-|:-----------|:---------------|:---------------|:-------:|
-| **HeroKidz**<br/>![](https://img.shields.io/badge/E--Commerce-Baby%20Products-F59E0B?style=flat-square) | Elegant e-commerce platform for various retail baby products, shopping cart, and secure payment gateway | `Next.js` `Tailwind CSS` `MongoDB` `Stripe` | [<img src="https://img.shields.io/badge/Visit-Live-22C55E?style=for-the-badge&logo=shopify" height="25"/>](https://hero-kidz-by-ashiqur.vercel.app/) |
-
-</div>
 
 ---
 

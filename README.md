@@ -166,3 +166,7 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 ---
 
 <img src="https://camo.githubusercontent.com/3010d2c7e752bc7845df08067b0c9a858a6c20f7ef7116505b7cdea2b42ee738/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266772616469656e7453746172743d464644373030266772616469656e74456e643d464634353030266865696768743d3130302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;gradientStart=FFD700&amp;gradientEnd=FF4500&amp;height=300&amp;section=footer" style="max-width: 100%;">
+
+</br>
+
+<p align="center">**© 2025 Md Ashiqur Rahman**</p>

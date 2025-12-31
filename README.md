@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="450"/>
+<img align="right" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="350"/>
 
 I’m a motivated beginner-level MERN stack developer with hands-on experience building full-stack applications using MongoDB, Express.js, React, and Node.js, focused on real-world problem solving.
 

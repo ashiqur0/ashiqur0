@@ -23,14 +23,15 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 
 
 ##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashiqur0&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashiqur0&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur0&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ashiqur0&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ashiqur0&theme=github-dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur0&theme=github_dark&hide_border=true&layout=compact)
+
 
 ---
 
 ## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnaim2004&theme=react&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashiqur0&theme=react&hide_border=true" />
 
 ---
 

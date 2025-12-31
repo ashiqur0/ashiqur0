@@ -30,7 +30,7 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 ---
 
 ## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashiqur0&theme=react&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mdnaim2004&theme=react&hide_border=true" />
 
 ---
 

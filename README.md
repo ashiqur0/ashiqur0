@@ -56,12 +56,11 @@ And applying what I know to simple real-world problems.
 
 
 ##  My GitHub Contribution
-
-![snake gif](https://github.com/ashiqur0/ashiqur0/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ashiqur0/ashiqur0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## github WorkFlow
+## github_WorkFlow
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"

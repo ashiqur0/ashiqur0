@@ -57,11 +57,11 @@ Motivated by continuous growth, I approach challenges with curiosity and profess
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg" />
+      srcset="https://github.com/ashiqur0/ashiqur0/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake.svg" />
+      srcset="https://github.com/ashiqur0/ashiqur0/blob/output/github-snake.svg" />
     <img alt="github snake"
-      src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-snake-dark.svg" />
+      src="https://github.com/ashiqur0/ashiqur0/blob/output/github-snake-dark.svg" />
   </picture>
 </p>
 

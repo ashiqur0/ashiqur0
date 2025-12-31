@@ -1,12 +1,16 @@
 <!-- Right Side GIF -->
+<div align="center" >
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=56&pause=100000&color=1E40AF&center=true&vCenter=true&width=1200&lines=Hi+There!" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Ashiqur+Rahman%2C+a+Full+Stak+MERN+Developer" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=500&size=38&pause=100000&color=3B82F6&center=true&vCenter=true&width=1000&lines=I'm+Ashiqur+Rahman%2C+a+Full+Stak+MERN+Developer" />
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Building+Scalable+Applications+%F0%9F%8C%90;Problem+Solver+%F0%9F%92%A1;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" /></a>
+  </div>
+
 
 ---
 

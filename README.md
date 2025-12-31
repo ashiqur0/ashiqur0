@@ -10,14 +10,13 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="350"/>
+<img align="right" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" width="500"/>
 
-I am a beginning-level MERN stack developer with hands-on, real-world experience building full-stack applications using MongoDB, Express.js, React, and Node.js.
+I’m a motivated beginner-level MERN stack developer with hands-on experience building full-stack applications using MongoDB, Express.js, React, and Node.js, focused on real-world problem solving.
 
-Through personal and team-based projects, I have contributed to planning, development, debugging, and deployment, collaborating closely with peers to deliver practical, user-focused solutions.
+I’ve contributed to personal and team projects involving planning, API development, UI design, debugging, and deployment, collaborating effectively while following clean code practices and modern workflows.
 
-I value clean, maintainable code, thoughtful problem-solving, and adaptability when learning new tools or workflows, while communicating clearly and supporting teammates in group environments.
-Motivated by continuous growth, I approach challenges with curiosity and professionalism, eager to expand my skills and make meaningful contributions to real-world applications.
+Driven by continuous learning, I adapt quickly to new tools, communicate clearly, and bring a professional mindset, aiming to grow fast and deliver meaningful, user-focused software solutions.
 
 </br>
 

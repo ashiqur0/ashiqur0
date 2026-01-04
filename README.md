@@ -169,4 +169,4 @@ Driven by continuous learning, I adapt quickly to new tools, communicate clearly
 
 </br>
 
-<p align="center">**© 2025 Md Ashiqur Rahman**</p>
+<p align="center">© 2025 Md Ashiqur Rahman</p>
